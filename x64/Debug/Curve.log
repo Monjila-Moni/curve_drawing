@@ -1,0 +1,39 @@
+﻿  glad.c
+  main.cpp
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(356,47): warning C4305: '-=': truncation from 'double' to 'float'
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(357,52): warning C4305: '-=': truncation from 'double' to 'float'
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(358,34): warning C4305: '-=': truncation from 'double' to 'float'
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(360,75): warning C4305: '+=': truncation from 'double' to 'float'
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(361,75): warning C4305: '-=': truncation from 'double' to 'float'
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(362,75): warning C4305: '+=': truncation from 'double' to 'float'
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(363,75): warning C4305: '-=': truncation from 'double' to 'float'
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(364,75): warning C4305: '+=': truncation from 'double' to 'float'
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(365,75): warning C4305: '-=': truncation from 'double' to 'float'
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(366,71): warning C4305: '+=': truncation from 'double' to 'float'
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(367,71): warning C4305: '-=': truncation from 'double' to 'float'
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(368,71): warning C4305: '+=': truncation from 'double' to 'float'
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(369,71): warning C4305: '-=': truncation from 'double' to 'float'
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(370,71): warning C4305: '+=': truncation from 'double' to 'float'
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(371,71): warning C4305: '-=': truncation from 'double' to 'float'
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(375,29): warning C4305: '+=': truncation from 'double' to 'float'
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(382,29): warning C4305: '+=': truncation from 'double' to 'float'
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(389,29): warning C4305: '+=': truncation from 'double' to 'float'
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(528,15): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(528,34): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(528,53): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(528,72): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(554,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(555,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(557,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(557,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(564,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(565,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(568,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(568,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(663,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(666,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(676,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(682,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\main.cpp(683,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  LINK : E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\x64\Debug\Curve.exe not found or not built by the last incremental link; performing full link
+  Curve.vcxproj -> E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\x64\Debug\Curve.exe

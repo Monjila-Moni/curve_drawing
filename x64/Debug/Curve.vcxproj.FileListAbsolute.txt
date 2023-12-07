@@ -1,0 +1,4 @@
+E:\KUET_Teaching\CSE 4208 Computer Graphics Laboratory 2K18\Lab 5\Curve\x64\Debug\Curve.exe
+F:\CSE 4208\Lab 5\Curve\x64\Debug\Curve.exe
+F:\test\Lab 5\Curve\x64\Debug\Curve.exe
+E:\4.2\Graphics\1807112_PROJECT\Curve\Curve\x64\Debug\Curve.exe
